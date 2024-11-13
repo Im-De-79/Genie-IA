@@ -14,7 +14,7 @@ Adobe Acrobat: Utilizado para converter o texto em PDF e otimizar a versão fina
 Foi utilizado ChatGPT para pesquisas, roteirização e refinamento de conteúdo, o Leonard-AI para criação do avatar com base na descrição fornecida pelo ChatGPT. A diagramação do texto foi efetuada também com base no roteiro efetuado pelo ChatGPT.
 
 ## 🚀 Resultados
-Genie-IA.pdf é o e-book resultado do projeto
+[Genie-IA.pdf](https://github.com/Im-De-79/Genie-IA/blob/9106b2b93aabc2d11d02b74ae638ee5a06b79597/Genie-IA.pdf) é o e-book resultado do projeto
 
 ## 💭 Reflexão (Opcional)
 Foi um pequeno começo criar o e-book, um pequeno passo de uma longa caminhada.
